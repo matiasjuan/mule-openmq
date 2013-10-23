@@ -27,3 +27,11 @@ Query broker status and params:
 cd bin
 ./imqcmd query bkr -u admin
 ```
+
+Version
+====
+
+*  Open MQ 4.5
+*  Mule Studio October 2013 Release
+*  Mule ESB 3.4.1
+
