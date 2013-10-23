@@ -22,8 +22,8 @@ cd bin
 ./imqbrokerd
 ```
 
+Query broker status and params:
 ```
-Query broker:
 cd bin
 ./imqcmd query bkr -u admin
 ```
