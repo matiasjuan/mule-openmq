@@ -2,6 +2,7 @@ OpenMQ example
 ====
 
 This example is based on the WebSphere MQ Example that comes with Studio (http://www.mulesoft.org/documentation/display/current/WebSphere+MQ+Example).
+
 It was modified to use Open MQ using this documentation http://www.mulesoft.org/documentation/display/current/Open+MQ+Integration.
 
 
